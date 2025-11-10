@@ -30,4 +30,9 @@ profiles:
     content: about_diogo_cordeiro.md
     image_circular: false # crops the image to make it circular
     more_info: 
+  - align: left
+    image: Ebby_cropped-1122x1536.jpeg
+    content: about_ebby_raj.md
+    image_circular: false # crops the image to make it circular
+    more_info:
 ---
