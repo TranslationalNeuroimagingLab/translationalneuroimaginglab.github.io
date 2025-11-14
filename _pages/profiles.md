@@ -32,4 +32,19 @@ profiles:
     content: about_ebby_raj.md
     image_circular: false # crops the image to make it circular
     more_info:
+  - align: right
+    image: Anitah_2.jpeg
+    content: about_anitah_numatebi.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+  - align: left
+    image: 7_7_25-scaled.jpg
+    content: about_brayden_girard.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+  - align: right
+    image: DSC0948-scaled.jpeg
+    content: about_jacqueline_stovall.md
+    image_circular: false # crops the image to make it circular
+    more_info:
 ---
