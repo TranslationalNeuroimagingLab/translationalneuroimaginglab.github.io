@@ -13,9 +13,8 @@ We collaborate closely with neurosurgeons Dr. Christopher Graffeo and Dr. Andrew
 
 We also collaborate closely with the Stephenson Cancer Center (SCC) at OU HSC. The SCC is a National Cancer Institute designated cancer center and is the nation’s No. 1 cancer center for patient clinical trial accrual.
 
-Funding sources include:
-
-    National Science Foundation (NSF) Seed Translational Research Project (STRP) for “Machine Learning for Real-time Detection of Complications during Neurosurgery.” (PI: Miller)
+Funding sources include: <br>
+* National Science Foundation (NSF) Seed Translational Research Project (STRP) for “Machine Learning for Real-time Detection of Complications during Neurosurgery.” (PI: Miller)
 
 
 <!-- pages/projects.md -->
