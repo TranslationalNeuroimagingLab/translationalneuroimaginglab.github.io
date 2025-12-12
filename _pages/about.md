@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: left
   image: Lab_Lunch_Sprin_2025-1-1536x1492.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
