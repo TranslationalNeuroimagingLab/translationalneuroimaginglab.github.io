@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Description
+subtitle: 
 
 profile:
   align: right
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Develop and translate novel neuroimaging and neuroengineering technology to better understand and treat brain diseases
+Our mission is to develop and translate novel neuroimaging and neuroengineering technology to better understand and treat brain diseases
