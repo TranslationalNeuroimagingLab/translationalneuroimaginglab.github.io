@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: Lab_Lunch_Sprin_2025-1-1536x1492.jpeg
+  image: Lab_Lunch_Fall_2025.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Gallogly Hall 417</p>
