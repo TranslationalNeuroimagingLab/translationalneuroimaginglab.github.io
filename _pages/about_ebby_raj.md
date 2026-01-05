@@ -1,5 +1,5 @@
 # Ebenezer Raj, MS
-PhD Student <br>
+PhD Candidate <br>
 Stephenson School of Biomedical Engineering <br>
 
 ## Education History
